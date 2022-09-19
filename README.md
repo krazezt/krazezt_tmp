@@ -7,7 +7,7 @@
 Who am I?
 ---------
   * **Front-end developer**/**Game developer** *(Primarily Web frontend)*
-  * Hobbyist **Game development**! *YES, as my hobby*
+  * Hobbyist **Game development!** *YES, as my hobby*
 
 Links
 -----
