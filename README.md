@@ -11,6 +11,4 @@ Who am I?
 
 Links
 -----
-> My homepage is currently WIP
-  * [Homepage](#)
   * [Facebook](https://facebook.com/quantd239)
